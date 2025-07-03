@@ -1,88 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1365.8256" height="280.48944" version="1.1" viewBox="0 0 1365.8255 280.48944" id="svg3412" sodipodi:docname="vaultwarden-logo.svg" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview id="namedview3414" pagecolor="#000000" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#202020" showgrid="false" inkscape:zoom="0.95107314" inkscape:cx="683.4385" inkscape:cy="139.84203" inkscape:window-width="1874" inkscape:window-height="1056" inkscape:window-x="46" inkscape:window-y="24" inkscape:window-maximized="1" inkscape:current-layer="svg3412" />
-  <title id="title3292">Vaultwarden Logo - White</title>
-  <defs id="defs3308">
-    <mask id="holes">
-      <rect x="-60" y="-60" width="120" height="120" fill="#fff" id="rect3296" />
-      <circle id="hole" cy="-40" r="3" />
-      <use transform="rotate(72)" xlink:href="#hole" id="use3299" />
-      <use transform="rotate(144)" xlink:href="#hole" id="use3301" />
-      <use transform="rotate(216)" xlink:href="#hole" id="use3303" />
-      <use transform="rotate(-72)" xlink:href="#hole" id="use3305" />
-    </mask>
-  </defs>
-  <text transform="translate(-10.708266,-9.2965379)" x="286.59244" y="223.43649" fill="#e6e6e6" font-family="'Open Sans'" font-size="200px" style="line-height:1.25" xml:space="preserve" id="text3314"><tspan x="286.59244" y="223.43649" font-family="'Open Sans'" font-size="200px" id="tspan3312"><tspan font-family="'Open Sans'" font-size="200px" font-weight="bold" id="tspan3310">ault</tspan>warden</tspan></text>
-  <g transform="translate(-10.708266,-9.2965379)" id="g3410">
-    <g id="logo" transform="matrix(2.6712834,0,0,2.6712834,150.95027,149.53854)">
-      <g id="gear" mask="url(#holes)">
-        <path d="m-31.1718-33.813208 26.496029 74.188883h9.3515399l26.49603-74.188883h-9.767164l-16.728866 47.588948q-1.662496 4.571864-2.805462 8.624198-1.142966 3.948427-1.870308 7.585137-.72734199-3.63671-1.8703079-7.689043-1.142966-4.052334-2.805462-8.728104l-16.624959-47.381136z" fill="#e6e6e6" stroke="#e6e6e6" stroke-width="4.51171" id="path3316" />
-        <circle transform="scale(-1,1)" r="43" fill="none" stroke="#e6e6e6" stroke-width="9" id="circle3318" />
-        <g id="cogs" transform="scale(-1,1)">
-          <polygon id="cog" points="46 -3 46 3 51 0" fill="#e6e6e6" stroke="#e6e6e6" stroke-linejoin="round" stroke-width="3" />
-          <use transform="rotate(11.25)" xlink:href="#cog" id="use3321" />
-          <use transform="rotate(22.5)" xlink:href="#cog" id="use3323" />
-          <use transform="rotate(33.75)" xlink:href="#cog" id="use3325" />
-          <use transform="rotate(45)" xlink:href="#cog" id="use3327" />
-          <use transform="rotate(56.25)" xlink:href="#cog" id="use3329" />
-          <use transform="rotate(67.5)" xlink:href="#cog" id="use3331" />
-          <use transform="rotate(78.75)" xlink:href="#cog" id="use3333" />
-          <use transform="rotate(90)" xlink:href="#cog" id="use3335" />
-          <use transform="rotate(101.25)" xlink:href="#cog" id="use3337" />
-          <use transform="rotate(112.5)" xlink:href="#cog" id="use3339" />
-          <use transform="rotate(123.75)" xlink:href="#cog" id="use3341" />
-          <use transform="rotate(135)" xlink:href="#cog" id="use3343" />
-          <use transform="rotate(146.25)" xlink:href="#cog" id="use3345" />
-          <use transform="rotate(157.5)" xlink:href="#cog" id="use3347" />
-          <use transform="rotate(168.75)" xlink:href="#cog" id="use3349" />
-          <use transform="scale(-1)" xlink:href="#cog" id="use3351" />
-          <use transform="rotate(191.25)" xlink:href="#cog" id="use3353" />
-          <use transform="rotate(202.5)" xlink:href="#cog" id="use3355" />
-          <use transform="rotate(213.75)" xlink:href="#cog" id="use3357" />
-          <use transform="rotate(225)" xlink:href="#cog" id="use3359" />
-          <use transform="rotate(236.25)" xlink:href="#cog" id="use3361" />
-          <use transform="rotate(247.5)" xlink:href="#cog" id="use3363" />
-          <use transform="rotate(258.75)" xlink:href="#cog" id="use3365" />
-          <use transform="rotate(-90)" xlink:href="#cog" id="use3367" />
-          <use transform="rotate(-78.75)" xlink:href="#cog" id="use3369" />
-          <use transform="rotate(-67.5)" xlink:href="#cog" id="use3371" />
-          <use transform="rotate(-56.25)" xlink:href="#cog" id="use3373" />
-          <use transform="rotate(-45)" xlink:href="#cog" id="use3375" />
-          <use transform="rotate(-33.75)" xlink:href="#cog" id="use3377" />
-          <use transform="rotate(-22.5)" xlink:href="#cog" id="use3379" />
-          <use transform="rotate(-11.25)" xlink:href="#cog" id="use3381" />
-        </g>
-        <g id="mounts" transform="scale(-1,1)">
-          <polygon id="mount" points="7 -42 -7 -42 0 -35" stroke="#e6e6e6" stroke-linejoin="round" stroke-width="6" />
-          <use transform="rotate(72)" xlink:href="#mount" id="use3385" />
-          <use transform="rotate(144)" xlink:href="#mount" id="use3387" />
-          <use transform="rotate(216)" xlink:href="#mount" id="use3389" />
-          <use transform="rotate(-72)" xlink:href="#mount" id="use3391" />
-        </g>
-      </g>
-      <mask id="mask3407">
-        <rect x="-60" y="-60" width="120" height="120" fill="#e6e6e6" id="rect3395" />
-        <circle cy="-40" r="3" id="circle3397" />
-        <use transform="rotate(72)" xlink:href="#hole" id="use3399" />
-        <use transform="rotate(144)" xlink:href="#hole" id="use3401" />
-        <use transform="rotate(216)" xlink:href="#hole" id="use3403" />
-        <use transform="rotate(-72)" xlink:href="#hole" id="use3405" />
-      </mask>
-    </g>
-  </g>
-  <metadata id="metadata3294">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Vaultwarden Logo - White</dc:title>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Mathijs van Veluw</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:relation>Rust Logo</dc:relation>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1367 281" width="1367" height="281">
+	<title>vaultwarden-logo-white</title>
+	<defs>
+		<image width="1080" height="1080" id="img1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iQ2FtYWRhXzEiIGRhdGEtbmFtZT0iQ2FtYWRhIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwODAgMTA4MCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogIzI5MjM1YzsKICAgICAgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CiAgPGc+CiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik02MjMuMDQsNTk5LjIxaC0xMC41MXYtNTAuOTloMTAuNTF2NTAuOTlaIi8+CiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik02NTUuNzcsNTYxLjMxbC4zMiw0LjM4YzIuNzEtMy4zOSw2LjM0LTUuMDgsMTAuODktNS4wOCw0LjAyLDAsNywxLjE4LDguOTcsMy41NCwxLjk2LDIuMzYsMi45Nyw1Ljg4LDMuMDEsMTAuNTh2MjQuNDhoLTEwLjEydi0yNC4yNGMwLTIuMTUtLjQ3LTMuNzEtMS40LTQuNjgtLjkzLS45Ny0yLjQ5LTEuNDUtNC42Ni0xLjQ1LTIuODUsMC00Ljk4LDEuMjItNi40MSwzLjY0djI2LjcyaC0xMC4xMnYtMzcuOWg5LjUzWiIvPgogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNzIxLjQ5LDU4OC43M2MwLTEuMjQtLjYxLTIuMjEtMS44NC0yLjkyLTEuMjMtLjcxLTMuMTktMS4zNS01LjktMS45MS05LjAxLTEuODktMTMuNTItNS43Mi0xMy41Mi0xMS40OSwwLTMuMzYsMS4zOS02LjE3LDQuMTgtOC40MiwyLjc5LTIuMjUsNi40NC0zLjM4LDEwLjk1LTMuMzgsNC44MSwwLDguNjYsMS4xMywxMS41NCwzLjQsMi44OCwyLjI2LDQuMzMsNS4yMSw0LjMzLDguODNoLTEwLjEyYzAtMS40NS0uNDctMi42NC0xLjQtMy41OS0uOTMtLjk1LTIuMzktMS40Mi00LjM4LTEuNDItMS43MSwwLTMuMDIuMzktMy45NiwxLjE2LS45My43Ny0xLjQsMS43NS0xLjQsMi45NCwwLDEuMTIuNTMsMi4wMywxLjU5LDIuNzEsMS4wNi42OSwyLjg1LDEuMjgsNS4zNywxLjc5LDIuNTIuNSw0LjY1LDEuMDcsNi4zNywxLjcsNS4zNSwxLjk2LDguMDIsNS4zNiw4LjAyLDEwLjE5LDAsMy40Ni0xLjQ4LDYuMjUtNC40NSw4LjM5LTIuOTcsMi4xNC02Ljc5LDMuMi0xMS40OSwzLjItMy4xOCwwLTYtLjU3LTguNDYtMS43LTIuNDYtMS4xMy00LjQtMi42OC01LjgtNC42Ni0xLjQtMS45Ny0yLjEtNC4xLTIuMS02LjM5aDkuNmMuMDksMS44Ljc2LDMuMTgsMiw0LjEzLDEuMjQuOTYsMi45LDEuNDQsNC45NywxLjQ0LDEuOTQsMCwzLjQtLjM3LDQuNC0xLjEuOTktLjc0LDEuNDktMS43LDEuNDktMi44OVoiLz4KICAgIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTc2NC4zMSw1NTJ2OS4zMmg2LjQ4djcuNDNoLTYuNDh2MTguOTFjMCwxLjQuMjcsMi40LjgxLDMuMDEuNTQuNjEsMS41Ni45MSwzLjA4LjkxLDEuMTIsMCwyLjExLS4wOCwyLjk4LS4yNXY3LjY3Yy0xLjk5LjYxLTQuMDMuOTEtNi4xMy45MS03LjEsMC0xMC43Mi0zLjU4LTEwLjg2LTEwLjc1di0yMC40MmgtNS41M3YtNy40M2g1LjUzdi05LjMyaDEwLjEyWiIvPgogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNzkwLjcxLDU1MS41MWMwLTEuNTIuNTEtMi43NywxLjUyLTMuNzVzMi40LTEuNDcsNC4xNS0xLjQ3LDMuMTEuNDksNC4xMywxLjQ3LDEuNTQsMi4yMywxLjU0LDMuNzUtLjUyLDIuOC0xLjU2LDMuNzhjLTEuMDQuOTgtMi40MSwxLjQ3LTQuMTIsMS40N3MtMy4wOC0uNDktNC4xMS0xLjQ3Yy0xLjA0LS45OC0xLjU2LTIuMjQtMS41Ni0zLjc4Wk04MDEuNDYsNTk5LjIxaC0xMC4xNnYtMzcuOWgxMC4xNnYzNy45WiIvPgogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNODM2LjI2LDU1MnY5LjMyaDYuNDh2Ny40M2gtNi40OHYxOC45MWMwLDEuNC4yNywyLjQuODEsMy4wMS41NC42MSwxLjU2LjkxLDMuMDguOTEsMS4xMiwwLDIuMTEtLjA4LDIuOTgtLjI1djcuNjdjLTEuOTkuNjEtNC4wMy45MS02LjEzLjkxLTcuMSwwLTEwLjcyLTMuNTgtMTAuODYtMTAuNzV2LTIwLjQyaC01LjUzdi03LjQzaDUuNTN2LTkuMzJoMTAuMTJaIi8+CiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik04ODUuNDIsNTk1LjM1Yy0yLjUsMy4wMy01Ljk1LDQuNTUtMTAuMzcsNC41NS00LjA2LDAtNy4xNi0xLjE3LTkuMy0zLjUtMi4xNC0yLjMzLTMuMjMtNS43NS0zLjI3LTEwLjI2di0yNC44M2gxMC4xMnYyNC41MWMwLDMuOTUsMS44LDUuOTMsNS4zOSw1LjkzczUuNzktMS4xOSw3LjA3LTMuNTh2LTI2Ljg2aDEwLjE2djM3LjloLTkuNTNsLS4yOC0zLjg1WiIvPgogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNOTI5LjMyLDU1MnY5LjMyaDYuNDh2Ny40M2gtNi40OHYxOC45MWMwLDEuNC4yNywyLjQuODEsMy4wMS41NC42MSwxLjU2LjkxLDMuMDguOTEsMS4xMiwwLDIuMTEtLjA4LDIuOTgtLjI1djcuNjdjLTEuOTkuNjEtNC4wMy45MS02LjEzLjkxLTcuMSwwLTEwLjcyLTMuNTgtMTAuODYtMTAuNzV2LTIwLjQyaC01LjUzdi03LjQzaDUuNTN2LTkuMzJoMTAuMTJaIi8+CiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik05NzMuMjIsNTk5LjkxYy01LjU2LDAtMTAuMDgtMS43LTEzLjU3LTUuMTFzLTUuMjQtNy45NS01LjI0LTEzLjYydi0uOThjMC0zLjgxLjc0LTcuMjEsMi4yMS0xMC4yMSwxLjQ3LTMsMy41Ni01LjMxLDYuMjUtNi45MywyLjctMS42Miw1Ljc3LTIuNDQsOS4yMy0yLjQ0LDUuMTgsMCw5LjI2LDEuNjMsMTIuMjQsNC45LDIuOTgsMy4yNyw0LjQ3LDcuOSw0LjQ3LDEzLjl2NC4xM2gtMjQuMTNjLjMzLDIuNDgsMS4zMSw0LjQ2LDIuOTYsNS45NSwxLjY1LDEuNDksMy43MywyLjI0LDYuMjUsMi4yNCwzLjksMCw2Ljk1LTEuNDEsOS4xNC00LjI0bDQuOTcsNS41N2MtMS41MiwyLjE1LTMuNTcsMy44Mi02LjE2LDUuMDMtMi41OSwxLjItNS40NiwxLjgtOC42MiwxLjhaTTk3Mi4wNyw1NjguNzdjLTIuMDEsMC0zLjY0LjY4LTQuODksMi4wNC0xLjI1LDEuMzYtMi4wNSwzLjMxLTIuNCw1Ljg0aDE0LjA4di0uODFjLS4wNS0yLjI1LS42NS0zLjk5LTEuODItNS4yMnMtMi44Mi0xLjg1LTQuOTctMS44NVoiLz4KICA8L2c+CiAgPGc+CiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik02MTIuNTMsNjc3LjZ2LTUwLjk5aDE3Ljg2YzYuMTksMCwxMC44OCwxLjE5LDE0LjA4LDMuNTYsMy4yLDIuMzcsNC44LDUuODQsNC44LDEwLjQyLDAsMi41LS42NCw0LjctMS45Myw2LjYtMS4yOCwxLjktMy4wNywzLjMtNS4zNiw0LjE5LDIuNjIuNjUsNC42OCwxLjk3LDYuMTgsMy45NnMyLjI2LDQuNDEsMi4yNiw3LjI4YzAsNC45LTEuNTYsOC42Mi00LjY5LDExLjE0LTMuMTMsMi41Mi03LjU5LDMuODEtMTMuMzgsMy44NWgtMTkuODJaTTYyMy4wNCw2NDcuOTdoNy43N2M1LjMtLjA5LDcuOTUtMi4yMSw3Ljk1LTYuMzQsMC0yLjMxLS42Ny0zLjk3LTIuMDEtNC45OS0xLjM0LTEuMDItMy40Ni0xLjUyLTYuMzYtMS41MmgtNy4zNXYxMi44NVpNNjIzLjA0LDY1NS40djEzLjc3aDljMi40NywwLDQuNDEtLjU5LDUuOC0xLjc3LDEuMzktMS4xOCwyLjA4LTIuODEsMi4wOC00Ljg4LDAtNC42Ny0yLjQyLTcuMDQtNy4yNS03LjExaC05LjYzWiIvPgogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNjkzLjI4LDY0OS4yYy0xLjM4LS4xOS0yLjU5LS4yOC0zLjY0LS4yOC0zLjgzLDAtNi4zNCwxLjMtNy41MywzLjg5djI0LjhoLTEwLjEydi0zNy45aDkuNTZsLjI4LDQuNTJjMi4wMy0zLjQ4LDQuODUtNS4yMiw4LjQ0LTUuMjIsMS4xMiwwLDIuMTcuMTUsMy4xNS40NmwtLjE0LDkuNzRaIi8+CiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik03MzMuNCw2NzcuNmMtLjQ3LS45MS0uODEtMi4wNC0xLjAyLTMuNC0yLjQ1LDIuNzMtNS42NCw0LjEtOS41Niw0LjEtMy43MSwwLTYuNzktMS4wNy05LjIzLTMuMjItMi40NC0yLjE1LTMuNjYtNC44Ni0zLjY2LTguMTMsMC00LjAyLDEuNDktNy4xLDQuNDctOS4yNSwyLjk4LTIuMTUsNy4yOC0zLjIzLDEyLjkxLTMuMjZoNC42NnYtMi4xN2MwLTEuNzUtLjQ1LTMuMTUtMS4zNS00LjItLjktMS4wNS0yLjMyLTEuNTgtNC4yNS0xLjU4LTEuNzEsMC0zLjA0LjQxLTQuMDEsMS4yMy0uOTcuODItMS40NSwxLjk0LTEuNDUsMy4zNmgtMTAuMTJjMC0yLjIuNjgtNC4yMywyLjAzLTYuMDksMS4zNS0xLjg3LDMuMjctMy4zMyw1Ljc0LTQuMzksMi40OC0xLjA2LDUuMjUtMS41OSw4LjM0LTEuNTksNC42NywwLDguMzgsMS4xNywxMS4xMiwzLjUyLDIuNzQsMi4zNSw0LjExLDUuNjQsNC4xMSw5Ljg5djE2LjQzYy4wMiwzLjYuNTMsNi4zMiwxLjUxLDguMTZ2LjZoLTEwLjIzWk03MjUuMDMsNjcwLjU2YzEuNDksMCwyLjg3LS4zMyw0LjEzLTEsMS4yNi0uNjcsMi4xOS0xLjU2LDIuOC0yLjY4di02LjUxaC0zLjc4Yy01LjA3LDAtNy43NiwxLjc1LTguMDksNS4yNWwtLjAzLjZjMCwxLjI2LjQ0LDIuMywxLjMzLDMuMTIuODkuODIsMi4xLDEuMjMsMy42NCwxLjIzWiIvPgogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNzg0Ljc3LDY2Ny4xM2MwLTEuMjQtLjYxLTIuMjEtMS44NC0yLjkyLTEuMjMtLjcxLTMuMTktMS4zNS01LjktMS45MS05LjAxLTEuODktMTMuNTItNS43Mi0xMy41Mi0xMS40OSwwLTMuMzYsMS4zOS02LjE3LDQuMTgtOC40MiwyLjc5LTIuMjUsNi40NC0zLjM4LDEwLjk1LTMuMzgsNC44MSwwLDguNjYsMS4xMywxMS41NCwzLjQsMi44OCwyLjI2LDQuMzMsNS4yMSw0LjMzLDguODNoLTEwLjEyYzAtMS40NS0uNDctMi42NC0xLjQtMy41OS0uOTMtLjk1LTIuMzktMS40Mi00LjM4LTEuNDItMS43MSwwLTMuMDIuMzktMy45NiwxLjE2LS45My43Ny0xLjQsMS43NS0xLjQsMi45NCwwLDEuMTIuNTMsMi4wMywxLjU5LDIuNzEsMS4wNi42OSwyLjg1LDEuMjgsNS4zNywxLjc5LDIuNTIuNSw0LjY1LDEuMDcsNi4zNywxLjcsNS4zNSwxLjk2LDguMDIsNS4zNiw4LjAyLDEwLjE5LDAsMy40Ni0xLjQ4LDYuMjUtNC40NSw4LjM5LTIuOTcsMi4xNC02Ljc5LDMuMi0xMS40OSwzLjItMy4xOCwwLTYtLjU3LTguNDYtMS43LTIuNDYtMS4xMy00LjQtMi42OC01LjgtNC42NnMtMi4xLTQuMS0yLjEtNi4zOWg5LjZjLjA5LDEuOC43NiwzLjE4LDIsNC4xMywxLjI0Ljk2LDIuOSwxLjQ0LDQuOTcsMS40NCwxLjk0LDAsMy40LS4zNyw0LjQtMS4xczEuNDktMS43LDEuNDktMi44OVoiLz4KICAgIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTgxNS40LDYyOS45YzAtMS41Mi41MS0yLjc3LDEuNTItMy43NSwxLjAyLS45OCwyLjQtMS40Nyw0LjE1LTEuNDdzMy4xMS40OSw0LjEzLDEuNDdjMS4wMy45OCwxLjU0LDIuMjMsMS41NCwzLjc1cy0uNTIsMi44LTEuNTYsMy43OGMtMS4wNC45OC0yLjQxLDEuNDctNC4xMiwxLjQ3cy0zLjA4LS40OS00LjExLTEuNDdjLTEuMDQtLjk4LTEuNTYtMi4yNC0xLjU2LTMuNzhaTTgyNi4xNSw2NzcuNmgtMTAuMTZ2LTM3LjloMTAuMTZ2MzcuOVoiLz4KICAgIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTg1OS41MSw2NzcuNmgtMTAuMTZ2LTUzLjhoMTAuMTZ2NTMuOFoiLz4KICA8L2c+CiAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjYzLjg5LDU5NS43N3YzLjQyaC0yNS45OGMtMjEuNzIsOC43LTQyLjgsMTkuNDEtNjIuNzgsMzEuNzYsMi40OCwxNC4zOSw4LjgzLDI2LjUzLDE5LjA3LDM2LjQxLDEzLjUyLDEzLjA0LDMxLjIyLDE5LjU2LDUzLjA5LDE5LjU2LDExLjY4LDAsMjIuNTktMi4yNiwzMi43My02Ljc4LDEwLjE0LTQuNTIsMTcuOTgtMTAuNjEsMjMuNTEtMTguMjVsLS4wNS0uMDZjLTkuNjEtMTEuMzYtMjUuMDItMTUuMjctMzkuMjktMTEuMDQtNC4yMywxLjI1LTguODYsMS44OC0xMy44OCwxLjg4LTguNTIsMC0xNS40Ni0yLjI4LTIwLjgxLTYuODUtNS4zNi00LjU2LTguODMtMTAuODUtMTAuNDEtMTguODRoNzFjOS41MywwLDE3LjI2LTcuNzMsMTcuMjYtMTcuMjYsMC0xMS4xOC0xLjQ4LTIxLjEyLTQuNDEtMjkuODItMTMuMjQsMi41NS0yNi40MSw1LjkzLTM5LjQzLDEwLjA4LjI4LDEuOC40MiwzLjcxLjM3LDUuNzhaIi8+CiAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjE5LjEsNTk5LjE5YzIuNDYtMTcuMjEsMTAuMTktMjUuODIsMjMuMTgtMjUuODIsNy4wMywwLDEyLjQzLDEuOTYsMTYuMiw1Ljg2LjcuNzIsMS4zLDEuNTIsMS44NiwyLjM1LDEyLjYxLTQuNTcsMjUuMzktOC40NSwzOC4yNi0xMS41Ny0yLjQtNC40OS01LjI0LTguNi04LjY0LTEyLjI1LTExLjU5LTEyLjQyLTI3LjQtMTguNjQtNDcuNDItMTguNjQtMTQuMjMsMC0yNi41MiwzLjA1LTM2Ljg4LDkuMTYtMTAuMzcsNi4xMS0xOC4yNSwxNC43My0yMy42NSwyNS44OC01LjQsMTEuMTUtOC4xLDI0LjAyLTguMSwzOC42djMuNjljMCwyLjg3LjE2LDUuNjQuNDEsOC4zNiwxNC4zOS05LjM5LDI5LjQxLTE3Ljk4LDQ0Ljg3LTI1LjYyaC0uMDlaIi8+CiAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMzI5LjY5LDU3NS45NGMzLjA0LDUuNTIsOC43Nyw5LjYzLDE2LjI5LDkuNjNzMTQuMTYtMy43MiwxOC4xOC05Ljg2Yy4zLS40Ni42My0uODguOTgtMS4yOC0xMS43OC0uMjUtMjMuNjEuMjgtMzUuNDUsMS41MVoiLz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik00MzUuMzEsNTY5LjU3Yy0yLjctNi42NS02LjgyLTEyLjM5LTEyLjQ3LTE3LjE0LTEwLjU0LTguODctMjQuOS0xMy4zLTQzLjA3LTEzLjNzLTMzLjEzLDQuMy00NC44NSwxMi45Yy0uMTIuMDktLjIzLjE3LS4zNS4yNi00LjMzLDMuMjItNi41OCw3LjU4LTcuMTUsMTIuMDcsMzYuNDQtNS40NCw3My4wNC00LjMsMTA3LjksNS4yMloiLz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0zOTQuNTIsNTg5LjY3djcuNTVoLTEzLjdjLTIxLjc4LDAtMzguMzgsMy45NS00OS43OSwxMS44NS0xMS40Miw3LjktMTcuMTIsMTkuNTgtMTcuMTIsMzUuMDQsMCwxMi4zLDQuNywyMi41MSwxNC4wOSwzMC42Myw5LjQsOC4xMiwyMC44MSwxMi4xOCwzNC4yNSwxMi4xOCwxNC42NiwwLDI2LjA4LTUuMTQsMzQuMjUtMTUuNDEsMS4yMyw1LjYyLDIuNjMsOS44OCw0LjIyLDEyLjc4aDcuNjhjMTcuNDEsMCwzMS4wNC0xNC40NywzMC42Ni0zMS44OCwwLS4xMywwLS4yNiwwLS4zOXYtNjMuMWMtLjAxLS42NC0uMDgtMS4yMy0uMTEtMS44Ni0xNS41OC01LjI3LTMxLjU1LTguODEtNDcuNzItMTAuNzgsMi4xNiwzLjI0LDMuMzEsNy42NSwzLjMxLDEzLjM5Wk0zOTQuNTIsNjQzLjcyYy0xLjU4LDIuOTktNC4xOSw1LjY2LTcuODQsOC4wMy0zLjY0LDIuMzctOC4yMywzLjU2LTEzLjc2LDMuNTYtNC4yMiwwLTcuNjktMS4yNS0xMC40MS0zLjc1LTIuNzItMi41LTQuMDgtNS43Ny00LjA4LTkuODEsMC0xMy44Nyw3LjczLTIwLjgxLDIzLjE4LTIwLjgxaDEyLjkxdjIyLjc5WiIvPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTU2Mi42NCw1NTIuNDNjLTcuMzMtOC44Ny0xOC40Mi0xMy4zLTMzLjI2LTEzLjMtMTcuMywwLTMwLjg3LDYuNDUtNDAuNzEsMTkuMzdsLTEuNDUtMTYuNzNoLTMuMTVjLTE4LjczLDAtMzQuMzIsMTMuMzktMzcuNzUsMzEuMTIsMTQuOTgsNC45MiwyOS41OSwxMS40Nyw0My42NywxOS43OXYtOS4wMmM0LjIyLTYuODUsMTAuNjctMTAuMjgsMTkuMzctMTAuMjgsNy42NCwwLDEyLjkxLDEuNjksMTUuODEsNS4wNywyLjksMy4zOCw0LjM1LDguNjcsNC4zNSwxNS44N3Y4OS45N2gxLjhjMjMuNTksMCw0Mi43Mi0xOS4xMyw0Mi43Mi00Mi43MnYtNDkuMDljLS4yNi0xNy44My00LjA2LTMxLjE3LTExLjM5LTQwLjA1WiIvPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQ0NS42LDY4NC4yOWg4LjE2YzIwLjAxLDAsMzYuMjMtMTYuMjIsMzYuMjMtMzYuMjN2LTMyLjUzYzAtMi4zOS0xLjI1LTQuNi0zLjI4LTUuODctMTMuMjctOC4yNy0yNy4wMi0xNC45OC00MS4xMS0yMC4yM3Y5NC44NloiLz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNjcuODYsNjg0LjI5YzIuODgsMCw1LjIyLTIuMzQsNS4yMi01LjIyaDBjMC0xNC4wNi05LjU3LTI1Ljg2LTIyLjU0LTI5LjMtMS41My0uNDEtMy4xNy0uMTEtNC40NS44NC0xMi43Myw5LjQtMjQuODQsMTkuNDQtMzYuMjEsMzAtMS40MSwxLjMxLS40OCwzLjY4LDEuNDUsMy42OGg1Ni41MloiLz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xMzkuOTgsNjQ4LjcyaC0xLjU5Yy0uNTMsMC0uOTYtLjQzLS45Ni0uOTZ2LTEyMS4yNWMwLTE4Ljc5LTE1LjIzLTM0LjAyLTM0LjAyLTM0LjAyaC0xMS4yNmMtLjUzLDAtLjk2LjQzLS45Ni45NnYxODkuODhjMCwuNTMuNDMuOTYuOTYuOTZsMS42My0uMDJjNSwwLDkuNTUtNC4yMywxNC40NC04LjA3LDAsMCwyMS43Ni0xOC40MywzMi4wMi0yNi43NS4zLS4yNC4xMy0uNzMtLjI2LS43M1oiLz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0yNjAuMjYsNDE0LjUzYy0yLjA1Ljg3LTMuMDQsMy4yMi0yLjE3LDUuMjguODYsMi4wNSwzLjIyLDMuMDIsNS4yOCwyLjE2LDIuMDQtLjg2LDMuMDItMy4yMiwyLjE1LTUuMjctLjg2LTIuMDYtMy4yMS0zLjAzLTUuMjYtMi4xN1oiLz4KICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0yNjUuNTYsNDExLjMzbDYuNzgsNy44MmMuODIuOTUuNDQsMi40My0uNzMsMi44NmwtLjQzLjE2Yy0uODMuMzEtMS4zLDEuMTctMS4xMywyLjAzLDEuNTYsNy44NS0uNjMsMTIuMDktMi40NywxNC4xMy0xLjAyLDEuMTMtMS4xOCwyLjgtLjMsNC4wNGwxLjA0LDEuNDdjLjYxLjg2LDEuNzgsMS4xLDIuNjcuNTQsMi41MS0xLjU5LDYuNjgtNS44NCw0LjI2LTE1Ljg4LS4yLS44NS4yNC0xLjcyLDEuMDQtMi4wN2w0LjctMmMxLjQ2LS42MiwyLjAyLTIuNDEsMS4xNi0zLjc2bC04LjE2LTEyLjc3Yy0uNjItLjk3LS4xOC0yLjI3LjkxLTIuNjZsMTMuNzItNC45Yy45Mi0uMzMsMS40MS0xLjMzLDEuMS0yLjI2aDBjLS4yNi0uNzgtMS4wMS0xLjI4LTEuODMtMS4yMmwtMjEuMjQsMS40OWMtLjQ1LjAzLS44OC0uMTEtMS4yMy0uMzktNi4zMS00Ljk0LTE1LjAzLTYuNDMtMjIuOTUtMy4xMi0xMC40LDQuMzUtMTUuOSwxNS41LTEzLjUsMjYuMTMuNDcsMi4wNiwyLjY4LDMuMjEsNC42MywyLjM5bDI5LjkyLTEyLjUzYy43Mi0uMywxLjU0LS4xMSwyLjA1LjQ4WiIvPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTI0MC4yMSw0NjQuNjVjMTMuOTQsMi44NywyOC42NCwxMC42NiwyOC42NCwxMC42NiwyMy43MiwxMS44Niw0NS41MiwyOS43Nyw0OS4xMSw2Ny44MS4zMSwzLjI4LDQuNjIsNC4yNSw2LjI3LDEuNGgwYzAtMzktMTUuODMtNjEuNDUtMzYuNS03NS4yOCwzNC44NCwxLjQ1LDY1LjU3LTEuODYsODEuNDMtOC4wM2gwYzEuOTEtMS44My4xNS01LjAxLTIuNDEtNC4zNS01MS41OSwxMy4zLTE2NS45Niw2LjI1LTIxOS45Ni00My43Ny0xLjY3LTEuNTQtNC4zMS0xLjIzLTUuNTUuNjhoMGMtMi45Miw0LjUtMS45NSwxMC41LDIuMjcsMTMuODMsMTcuMSwxMy40NywzOS45MywyMy4yMiw2NC42OCwyOS45MSw5LjA1LDIuNDUsMTguMDgsNC4yOSwzMi4wMiw3LjE2WiIvPgo8L3N2Zz4="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+	</style>
+	<g id="g3410">
+		<use id="Logo Assinatura - Roxo" href="#img1" transform="matrix(.82,0,0,.82,240,-303)"/>
+	</g>
 </svg>
